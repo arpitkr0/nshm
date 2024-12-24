@@ -1,0 +1,34 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  min-height: 100vh;
+}
+
+.form-container {
+  margin-top: 20px;
+  margin-left: 50px;
+  color: #6d6d6d;
+  font-size: 16px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.syllabus-upload-container {
+  text-align: center;
+}
+.syllabus-upload-container img {
+  margin: 20px;
+}
+
+.flex {
+  display: flex;
+  gap: 20px;
+}
+
+input {
+  padding: 5px 10px;
+}
