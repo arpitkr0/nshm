@@ -1,4 +1,5 @@
 import { PdfReader } from "pdfreader";
+import path from "path";
 import fs from "fs";
 import { apiResult } from "../questionGen.js";
 
@@ -73,8 +74,10 @@ export const generateQuestions = async (req, res) => {
 
   //write questions in a file
   try {
-    fs.writeFileSync("results/result.txt", result);
+    fs.writeFileSync("result.txt", result);
     console.log("File written successfully");
+
+    //fs.unlinkSync(`./${file_name}`);
     return res.json({ success: true });
   } catch (err) {
     console.error(err);
@@ -82,12 +85,6 @@ export const generateQuestions = async (req, res) => {
   }
 };
 
-/* export const downloadResult = (req, res) => {
-  const filePath = path.join(__dirname, "results", "result.txt"); // Adjust path as needed
-  res.download(filePath, "result.txt", (err) => {
-    if (err) {
-      console.error("Error sending file:", err);
-      res.status(500).send("Error downloading file.");
-    }
-  });
-}; */
+export const downloadResult = async (req, res) => {
+  res.download("./result.txt");
+};

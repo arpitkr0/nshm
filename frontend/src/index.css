@@ -1,11 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Poppins&display=swap");
+
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  font-family: Outfit;
 }
 
 body {
   min-height: 100vh;
+}
+
+.left {
+  width: 40%;
+}
+.right {
+  width: 60%;
 }
 
 .form-container {
@@ -14,21 +24,50 @@ body {
   color: #6d6d6d;
   font-size: 16px;
   display: flex;
-  flex-direction: column;
-  align-items: center;
 }
-.syllabus-upload-container {
-  text-align: center;
-}
+
 .syllabus-upload-container img {
   margin: 20px;
+}
+.set {
+  margin-bottom: 10px;
 }
 
 .flex {
   display: flex;
+  align-items: center;
   gap: 20px;
 }
 
 input {
-  padding: 5px 10px;
+  padding: 8px 16px;
+}
+
+input:hover {
+  border-color: tomato;
+}
+
+select {
+  padding: 4px 8px;
+}
+
+.submit-btn {
+  margin-top: 15px;
+  padding: 8px 16px;
+  background-color: #000;
+  color: white;
+  border: none;
+  outline: none;
+  border-radius: 3px;
+  cursor: pointer;
+}
+.download-btn {
+  margin-top: 15px;
+  padding: 8px 16px;
+  background-color: #000;
+  color: white;
+  border: none;
+  outline: none;
+  border-radius: 3px;
+  cursor: pointer;
 }

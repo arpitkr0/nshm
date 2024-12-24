@@ -1,0 +1,7 @@
+Molecular geometry, Hybridization, Ionic, dipolar and van Der Waals interactions; Molecular Orbital Theory and 
+its application indiatomic molecule; Pi-molecular orbital of unsaturated system; Band structure of solids, intrinsic 
+and extrinsic semiconductors and the role of doping on band structures. 
+Periodic Properties 
+Effective nuclear charge, penetration of orbitals; variations of s, p, d and f orbital energies of atoms in the periodic 
+table, electronic configurations, atomic and ionic sizes; ionization energies, electron affinity and electro-negativity, 
+polarizability, oxidation states, coordination numbers and geometries; hard-soft acid base theory.

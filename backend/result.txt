@@ -1,0 +1,74 @@
+**B.Tech 1st Year Chemistry Examination**
+
+**Time:** 3 Hours                                                                     **Max Marks:** 75
+
+**Instructions:** Attempt all questions.
+
+**Section A: Multiple Choice Questions (1 mark each)**
+
+1. Which of the following molecules exhibits the highest dipole moment?
+    a) CO2      b) BF3      c) NH3      d) CH4
+
+2.  The hybridization of the central atom in XeF4 is:
+    a) sp       b) sp2      c) sp3d     d) sp3d2
+
+3.  Which type of interaction is primarily responsible for the solubility of iodine (I2) in carbon tetrachloride (CCl4)?
+    a) Ionic     b) Dipole-dipole     c) Hydrogen bonding     d) London Dispersion Forces
+
+4.  According to molecular orbital theory, the bond order of O2- is:
+    a) 1        b) 1.5       c) 2        d) 2.5
+
+5.  Which of the following is an example of an intrinsic semiconductor?
+    a) Silicon doped with Boron  b) Germanium doped with Arsenic  c) Pure Silicon    d) Pure Gallium Arsenide
+
+
+**Section B: True/False Questions (1 mark each)**
+
+1.  The effective nuclear charge experienced by an electron increases across a period in the periodic table. (True/False)
+
+2.  Electron affinity always increases across a period in the periodic table. (True/False)
+
+
+**Section C: Fill in the blanks (1 mark each)**
+
+1.  The shape of a molecule with sp3d hybridization is __________.
+
+2.  The band gap in an insulator is __________ than that in a semiconductor.
+
+
+**Section D: Assertion-Reason Questions (2 marks each)**
+
+1. **Assertion:**  The ionization energy of nitrogen is higher than that of oxygen.
+   **Reason:**  The half-filled p-orbital configuration of nitrogen provides extra stability.
+
+2. **Assertion:**  Hard acids prefer to bond with hard bases, and soft acids prefer to bond with soft bases.
+   **Reason:**  This is explained by the Hard-Soft Acid-Base (HSAB) principle, which considers factors like charge density and polarizability.
+
+
+**Section E: Short Answer Type Questions (3 marks each)**
+
+1. Explain the concept of effective nuclear charge and its influence on atomic size.
+
+2. Discuss the difference between intrinsic and extrinsic semiconductors, giving examples.
+
+3. Describe the formation of pi (π) molecular orbitals in a conjugated system like butadiene.
+
+4. Explain the role of doping in enhancing the conductivity of semiconductors.
+
+5. Compare and contrast the bonding in ionic compounds and covalent compounds, giving examples.
+
+
+**Section F: Long Answer Type Questions (5 marks each)**
+
+1.  Explain the Molecular Orbital Theory (MOT) and apply it to describe the bonding and magnetic properties of O2 and N2 molecules.
+
+2.  Discuss the variation of atomic and ionic sizes across the periodic table, explaining the factors that influence these variations.
+
+3.  Detail the factors influencing ionization energy and electron affinity. How do these properties vary across a period and down a group in the periodic table? Explain with suitable examples.
+
+4.  Explain the concept of hybridization, giving examples of molecules with sp, sp2, and sp3 hybrid orbitals. Draw suitable diagrams to illustrate the geometry of these molecules.
+
+5.  Describe the different types of intermolecular interactions: dipole-dipole, hydrogen bonding, and van der Waals forces.  Illustrate with examples how these forces influence physical properties like boiling point and melting point.
+
+
+**Note:**  This question paper is designed to be challenging. Students are expected to demonstrate a deep understanding of the concepts and their applications.  The difficulty level is suitable for B.Tech 1st year students in India, aligning with the high standards of engineering education in the country.
