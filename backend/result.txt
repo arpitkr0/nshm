@@ -1,74 +1,70 @@
-**B.Tech 1st Year Chemistry Examination**
+**B.Tech Chemistry Question Paper**
 
-**Time:** 3 Hours                                                                     **Max Marks:** 75
+**Time:** 3 Hours                                                                     **Max Marks:** 70
 
-**Instructions:** Attempt all questions.
+**Instructions:** Answer all questions.
 
 **Section A: Multiple Choice Questions (1 mark each)**
 
-1. Which of the following molecules exhibits the highest dipole moment?
-    a) CO2      b) BF3      c) NH3      d) CH4
+1.  Which of the following molecules exhibits the highest degree of π-electron delocalization?
+    a) Benzene   b) Cyclohexene   c) 1,3-Butadiene   d) Ethylene
 
-2.  The hybridization of the central atom in XeF4 is:
-    a) sp       b) sp2      c) sp3d     d) sp3d2
+2.  What is the effective nuclear charge experienced by a 3p electron in a phosphorus atom (Z=15)?  Consider Slater's rules.  (Requires calculation and application of Slater's rules)
+    a) +7   b) +5   c) +3   d) +4.8
 
-3.  Which type of interaction is primarily responsible for the solubility of iodine (I2) in carbon tetrachloride (CCl4)?
-    a) Ionic     b) Dipole-dipole     c) Hydrogen bonding     d) London Dispersion Forces
+3.  Which type of semiconductor has its conductivity increased by the addition of group V elements to group IV semiconductors?
+    a)  p-type  b) n-type  c) intrinsic  d)  amorphous
 
-4.  According to molecular orbital theory, the bond order of O2- is:
-    a) 1        b) 1.5       c) 2        d) 2.5
 
-5.  Which of the following is an example of an intrinsic semiconductor?
-    a) Silicon doped with Boron  b) Germanium doped with Arsenic  c) Pure Silicon    d) Pure Gallium Arsenide
+4. What is the hybridization of the central atom in XeF4?
+    a) sp b) sp² c) sp³d² d) sp³d
+
+
+5. Which interaction is responsible for the solubility of iodine (I2) in carbon tetrachloride (CCl4)?
+    a) Ion-dipole  b) Hydrogen bonding  c) Dipole-dipole  d) London Dispersion Forces
 
 
 **Section B: True/False Questions (1 mark each)**
 
-1.  The effective nuclear charge experienced by an electron increases across a period in the periodic table. (True/False)
+1.  The ionization energy generally increases across a period in the periodic table. (True/False)
 
-2.  Electron affinity always increases across a period in the periodic table. (True/False)
+2.  The energy of the 4f orbital is lower than the 5d orbital in the lanthanides. (True/False)
 
 
 **Section C: Fill in the blanks (1 mark each)**
 
-1.  The shape of a molecule with sp3d hybridization is __________.
+1.  The molecular geometry of SF6 is __________.
 
-2.  The band gap in an insulator is __________ than that in a semiconductor.
+2.  The band gap in an insulator is _____________ than that in a semiconductor.
 
 
 **Section D: Assertion-Reason Questions (2 marks each)**
 
-1. **Assertion:**  The ionization energy of nitrogen is higher than that of oxygen.
-   **Reason:**  The half-filled p-orbital configuration of nitrogen provides extra stability.
-
-2. **Assertion:**  Hard acids prefer to bond with hard bases, and soft acids prefer to bond with soft bases.
-   **Reason:**  This is explained by the Hard-Soft Acid-Base (HSAB) principle, which considers factors like charge density and polarizability.
+1. **Assertion:**  The electronegativity of fluorine is higher than that of chlorine.
+   **Reason:**  The effective nuclear charge experienced by the valence electrons is higher in fluorine than in chlorine.  (Explain both Assertion and Reason and their interrelation.)
 
 
-**Section E: Short Answer Type Questions (3 marks each)**
-
-1. Explain the concept of effective nuclear charge and its influence on atomic size.
-
-2. Discuss the difference between intrinsic and extrinsic semiconductors, giving examples.
-
-3. Describe the formation of pi (π) molecular orbitals in a conjugated system like butadiene.
-
-4. Explain the role of doping in enhancing the conductivity of semiconductors.
-
-5. Compare and contrast the bonding in ionic compounds and covalent compounds, giving examples.
+2. **Assertion:**  The bond order of O2 is 2.
+   **Reason:** The molecular orbital diagram of O2 shows two unpaired electrons in antibonding π orbitals. (Explain both Assertion and Reason and their interrelation.)
 
 
-**Section F: Long Answer Type Questions (5 marks each)**
+**Section E: Short Answer Questions (3 marks each)**
 
-1.  Explain the Molecular Orbital Theory (MOT) and apply it to describe the bonding and magnetic properties of O2 and N2 molecules.
-
-2.  Discuss the variation of atomic and ionic sizes across the periodic table, explaining the factors that influence these variations.
-
-3.  Detail the factors influencing ionization energy and electron affinity. How do these properties vary across a period and down a group in the periodic table? Explain with suitable examples.
-
-4.  Explain the concept of hybridization, giving examples of molecules with sp, sp2, and sp3 hybrid orbitals. Draw suitable diagrams to illustrate the geometry of these molecules.
-
-5.  Describe the different types of intermolecular interactions: dipole-dipole, hydrogen bonding, and van der Waals forces.  Illustrate with examples how these forces influence physical properties like boiling point and melting point.
+1.  Explain the concept of hybridization using sp3 hybridization as an example and give one example of a molecule exhibiting this hybridization.  Include a simple diagram.
 
 
-**Note:**  This question paper is designed to be challenging. Students are expected to demonstrate a deep understanding of the concepts and their applications.  The difficulty level is suitable for B.Tech 1st year students in India, aligning with the high standards of engineering education in the country.
+2. Discuss the factors affecting the ionic character of a bond using examples to illustrate.
+
+
+**Section F: Long Answer Questions (5 marks each)**
+
+1.  Describe the molecular orbital theory and apply it to explain the bonding, bond order, and magnetic properties of O2 and N2.  Draw molecular orbital diagrams.
+
+2.  Explain the band theory of solids.  Distinguish between intrinsic and extrinsic semiconductors. Describe the effect of doping on the band structure and conductivity of silicon.
+
+3. Explain the periodic trends in atomic radius, ionization energy, and electron affinity.  Justify these trends using the principles of effective nuclear charge and shielding effect.
+
+4.  Discuss the Hard-Soft Acid-Base (HSAB) theory and its applications in predicting the stability of complexes. Give examples of hard and soft acids and bases, and illustrate the theory with suitable examples of reactions.
+
+
+**Note:** This is a challenging question paper designed for B.Tech students.  The numerical calculations in some MCQs and the detailed explanations required for the longer questions aim to test a deeper understanding of the subject matter.  Appropriate adjustments to the difficulty level can be made by modifying the complexity of the questions or reducing the number of questions in each section as needed.
